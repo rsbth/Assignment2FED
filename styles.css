@@ -25,6 +25,7 @@
 #picture{
   width: 320px;
   height: 250px;
+  border-style: none;
   padding-bottom: 10px;
 }
 .features{
